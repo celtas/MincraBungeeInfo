@@ -1,0 +1,5 @@
+version: BungeeCord 1.7.2-1.7.10
+protocolversion: 5
+hostaddress:
+    - iris.minecraft.jp
+    - ec2-54-65-76-152.ap-northeast-1.compute.amazonaws.com
